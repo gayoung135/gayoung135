@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=002266&height=150&section=header" />
 <p align="center" style="font-size: 20px; font-weight: bold;">
   안녕하세요! 👋
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=002266&height=150&section=footer" />
