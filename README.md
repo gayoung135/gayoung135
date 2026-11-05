@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=150&section=header" />
-<center>안녕하세요! 👋</center>
+<p align="center" style="font-size: 20px; font-weight: bold;">
+  안녕하세요! 👋
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=150&section=footer" />
