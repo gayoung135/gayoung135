@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=150&section=header" />
-## 안녕하세요! 👋
+<center>안녕하세요! 👋</center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=150&section=footer" />
